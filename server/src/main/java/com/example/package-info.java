@@ -1,5 +1,5 @@
 /**
- * How are you
+ * How are you.
  */
 package com.example;
 
